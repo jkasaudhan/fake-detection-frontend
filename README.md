@@ -19,3 +19,8 @@ Currently, two official plugins are available:-
 - Open Terminal in vscode using Terminal -> New Terminal
 - Type: npm install to install packages
 - Type: npm run dev - it should run the frontend project and frontend should be accessible at http://localhost:5173/
+
+  
+## Credit
+- Special thank to harshpx git repo: https://github.com/harshpx/deepfake-detection/tree/main 
+- Out codebase is based on the above git repo project
