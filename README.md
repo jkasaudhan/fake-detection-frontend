@@ -22,5 +22,5 @@ Currently, two official plugins are available:-
 
   
 ## Credit
-- Special thank to harshpx git repo: https://github.com/harshpx/deepfake-detection/tree/main 
+- Special thanks to harshpx git repo: https://github.com/harshpx/deepfake-detection/tree/main 
 - Out codebase is based on the above git repo project
